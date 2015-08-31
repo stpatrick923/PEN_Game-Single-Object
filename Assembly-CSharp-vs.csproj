@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\Ball.cs" />
      <Compile Include="Assets\Scripts\CreatorCube.cs" />
+     <Compile Include="Assets\Scripts\Electron.cs" />
      <Compile Include="Assets\Scripts\Neutron.cs" />
      <Compile Include="Assets\Scripts\Proton.cs" />
  <Reference Include="UnityEngine.UI">
